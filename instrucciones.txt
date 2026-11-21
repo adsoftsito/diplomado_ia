@@ -1,0 +1,36 @@
+INSTRUCCIONES GENERALES · MÓDULO II (FASE 2)
+
+Objetivo transversal:
+Desarrollar comprensión y verificación de redes neuronales profundas desde el cálculo matemático, la implementación desde cero y el contraste con TensorFlow.
+
+Reglas para estudiantes:
+1) En actividades evaluadas del módulo, no usar agentes de IA para generar la solución final.
+2) Toda entrega debe incluir evidencia de verificación (cálculo, prueba o contraste).
+3) Reportar explícitamente pesos (W) y sesgos (b) por capa cuando aplique.
+
+Entregables mínimos por tema:
+- Tema 1 (Hopfield):
+  a) Cálculo de matriz de pesos y actualización de estados.
+  b) Implementación en Java o C sin agentes de IA.
+  c) Tabla de pruebas con patrones completos y con ruido.
+
+- Tema 2 (MLP sin frameworks):
+  a) Simulación en hoja de cálculo.
+  b) Implementación en Python sin frameworks.
+  c) Verificación de W y b por capa.
+
+- Tema 3 (TensorFlow):
+  a) Implementación equivalente de Hopfield/MLP en TensorFlow.
+  b) Extracción de W y b del modelo entrenado.
+  c) Comparación argumentada con resultados desde cero.
+
+Criterios de verificación:
+- Correctitud matemática (dimensiones, transpuestas, sumas y productos).
+- Trazabilidad entre cálculo manual, simulación y código.
+- Coherencia entre resultados esperados y observados.
+- Claridad para explicar decisiones técnicas.
+
+Evidencia recomendada:
+- Capturas de celdas/fórmulas y resultados clave.
+- Fragmentos de código relevantes.
+- Tabla comparativa de resultados por tema.
